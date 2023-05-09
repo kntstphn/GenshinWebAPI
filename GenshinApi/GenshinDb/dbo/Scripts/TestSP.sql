@@ -1,0 +1,1 @@
+﻿EXEC spChar_GetCharByRarity @rarity = '5*'
